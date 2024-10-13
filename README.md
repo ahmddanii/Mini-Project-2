@@ -1,2 +1,4 @@
 # Mini-Project-2
-Mini project dasar pemrograman
+### Nama  : Ahmad Dani
+### Kelas : Ahmad Dani
+### NIM   : 2409116074
