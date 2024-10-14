@@ -34,7 +34,9 @@ Menu admin, menggunakan pengulangan while. jika menu 1 maka akan masuk ke fungsi
 ![user menu](https://github.com/user-attachments/assets/3ebaa296-f75b-4681-ac5d-edda067b48cc)
 Menu user, menggunakan perulangan while. jika menu 1 maka akan masuk ke fungsi liat data sesuai user yang login, menu 2 akan masuk ke fungsi liat data sesuai user yang login, dan menu 3 akan menghentikan programmnya.
 
-![terakhir](https://github.com/user-attachments/assets/6ba1e3d4-4cbe-47d3-b083-1fdb216860b7)
-Menu utama dari program ini, yaitu menu login
+![terakhirr](https://github.com/user-attachments/assets/c9218f9a-26db-48a7-8dfc-0f2d8baf6477)
+Menu utama dari program ini, yaitu menu login, jika role = admin maka akan masuk ke menu admin. dan sebaliknya
+
+![image](https://github.com/user-attachments/assets/be846ee1-b6bc-4280-8542-cd4831f48cca)
 
 
