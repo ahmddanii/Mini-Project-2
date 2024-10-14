@@ -11,3 +11,30 @@
 Melakukan import prettytable untuk membuat tabel yang rapi dan pwinput agar ketika menginputkan password, yang diinput menjadi bintang. Lalu membuat data user dan data karyawan awal
 
 ![def login](https://github.com/user-attachments/assets/dfe3b76f-6f33-498d-8f24-17f79f9a945e)
+Membuat fungsi untuk login dan menggunakan library pwinput untuk input 
+
+![create](https://github.com/user-attachments/assets/652d069b-1851-4384-a132-5c70e02245e5)
+Membuat fungsi untuk menambah data karyawan, dengan menggunakan append
+
+![def read](https://github.com/user-attachments/assets/0a772515-4464-452d-85a9-70ed4262783e)
+Menampilkan data karyawan dengan menggunakan library prettytable, mengunakan looping for untuk menampilkan baris tabel
+
+![def update](https://github.com/user-attachments/assets/96cdc91b-2029-4331-8ef9-e2d15168b0fd)
+Mengupdate data dari karyawan dan mencari data yang ingin di edit dengan menggunakan next() untuk mencari id yang ada di dalam dictionary sampai ketemu id yang diinput
+
+![def delete](https://github.com/user-attachments/assets/c6aeb6a4-a91a-4a69-b842-3f499f12a966)
+Menghapus data karyawan, dan cara mencari id yang ingin dihapus sama seperti cara pada update
+
+![edit karyawan](https://github.com/user-attachments/assets/a98a0cb3-f8ea-4010-8a0d-1efe4d6e7226)
+Fungsi untuk mengedit data karyawan, menu ini akan tampil ketika user biasa login
+
+![admin menu](https://github.com/user-attachments/assets/1d4c323f-2678-402e-8fe2-57e87f5a9af9)
+Menu admin, menggunakan pengulangan while. jika menu 1 maka akan masuk ke fungsi tambah, menu 2 akan masuk ke fungsi melihat data, menu 3 untuk masuk ke fungsi update data, menu 4 masuk ke fungsi hapus data, dan menu 5 akan menghentikan programmnya
+
+![user menu](https://github.com/user-attachments/assets/3ebaa296-f75b-4681-ac5d-edda067b48cc)
+Menu user, menggunakan perulangan while. jika menu 1 maka akan masuk ke fungsi liat data sesuai user yang login, menu 2 akan masuk ke fungsi liat data sesuai user yang login, dan menu 3 akan menghentikan programmnya.
+
+![terakhir](https://github.com/user-attachments/assets/6ba1e3d4-4cbe-47d3-b083-1fdb216860b7)
+Menu utama dari program ini, yaitu menu login
+
+
