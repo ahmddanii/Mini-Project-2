@@ -166,7 +166,7 @@ def user_menu(username) :
         except ValueError: 
             print("Silahkan masukkan angka!")
 
-def main():
+try :
     role, username = login()
     if role == 'admin':
         admin_menu()
@@ -174,5 +174,5 @@ def main():
         user_menu(username)
     else:
         print("Username atau password tidak ada!")
-
-main()
+except TypeError as t:
+    print(f"Terdapat error, kode : {t} ")
