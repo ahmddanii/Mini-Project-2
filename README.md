@@ -37,6 +37,16 @@ Menu user, menggunakan perulangan while. jika menu 1 maka akan masuk ke fungsi l
 ![terakhirr](https://github.com/user-attachments/assets/c9218f9a-26db-48a7-8dfc-0f2d8baf6477)
 Menu utama dari program ini, yaitu menu login, jika role = admin maka akan masuk ke menu admin. dan sebaliknya
 
-![image](https://github.com/user-attachments/assets/be846ee1-b6bc-4280-8542-cd4831f48cca)
+## Output Program
+![image](https://github.com/user-attachments/assets/c27eb79d-3c12-4783-be6d-13fa8380f5e3)
+
+Bagian menu untuk melakukan CRUD, disini ada menu create dan menu read
+
+![image](https://github.com/user-attachments/assets/d975f5ab-defd-47b8-b21e-a2d2237ebb46)
+dan ini adalah menu edit, menu delete, dan menu logout
+
+![image](https://github.com/user-attachments/assets/ba83e4a3-5c9c-4547-9737-1595d9860c18)
+Lalu berikutnya ada menu untuk karyawan, disini karyawan hanya bisa melihat datanya sendiri dan mengedit datanya sendiri. Akses untuk karyawan hanya lihat dan edit datanya sendiri
+
 
 
